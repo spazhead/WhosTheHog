@@ -1,0 +1,15 @@
+body {
+	background: #fafafa;
+}
+
+.center.middle {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.status {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+}
